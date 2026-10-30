@@ -14,4 +14,4 @@ Rendered Instagram carousel slides (1080x1350 PNG), hosted so Buffer can fetch t
 - 10-reel-18-30-ai-jobs-uz/ : Reel "AI davrida ishsiz qolmaslik uchun 4 qadam" (UZ), 2:46 1080x1920 MP4
 - 11-reel-ai-journey-en/ : Reel "How the AI on your phone works" (EN), 61.8s 1080x1920 MP4
 - 12-reel-davlat-ai-tokens-uz/ : Reel "Davlat AI’si: oyiga 10 million token bepul" (UZ), 55.3s 1080x1920 MP4
-- `13-reel-ai-feelings-en/ai-feelings-en.mp4` — "The Sour Grapes Trap" (EN, 1:57), for @phaseflo
+- 13-reel-ai-feelings-en/ : Reel "The Sour Grapes Trap" (EN), 1:57 1080x1920 MP4
