@@ -15,3 +15,4 @@ Rendered Instagram carousel slides (1080x1350 PNG), hosted so Buffer can fetch t
 - 11-reel-ai-journey-en/ : Reel "How the AI on your phone works" (EN), 61.8s 1080x1920 MP4
 - 12-reel-davlat-ai-tokens-uz/ : Reel "Davlat AI’si: oyiga 10 million token bepul" (UZ), 55.3s 1080x1920 MP4
 - 13-reel-ai-feelings-en/ : Reel "The Sour Grapes Trap" (EN), 1:57 1080x1920 MP4
+- 14-reel-ai-owners-en/ : Reel "The AI Panic Trap" (EN), 2:57 1080x1920 MP4
