@@ -16,3 +16,4 @@ Rendered Instagram carousel slides (1080x1350 PNG), hosted so Buffer can fetch t
 - 12-reel-davlat-ai-tokens-uz/ : Reel "Davlat AI’si: oyiga 10 million token bepul" (UZ), 55.3s 1080x1920 MP4
 - 13-reel-ai-feelings-en/ : Reel "The Sour Grapes Trap" (EN), 1:57 1080x1920 MP4
 - 14-reel-ai-owners-en/ : Reel "The AI Panic Trap" (EN), 2:57 1080x1920 MP4
+- 15-reel-ai-owners-uz/ : Reel "AI vahimasi tuzog‘i" (UZ), 2:58 1080x1920 MP4
