@@ -18,3 +18,4 @@ Rendered Instagram carousel slides (1080x1350 PNG), hosted so Buffer can fetch t
 - 14-reel-ai-owners-en/ : Reel "The AI Panic Trap" (EN), 2:57 1080x1920 MP4
 - 15-reel-ai-owners-uz/ : Reel "AI vahimasi tuzog‘i" (UZ), 2:58 1080x1920 MP4
 - 17-reel-dollar-tahoe-uz/ : Reel "Bot mashinani 1 dollarga sotdi" (UZ), 59s 1080x1920 MP4
+- 18-reel-hallucination-uz/ : Reel "AI nega «bilmayman» demaydi?" (UZ), 59.6s 1080x1920 MP4
