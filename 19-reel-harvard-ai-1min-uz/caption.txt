@@ -1,0 +1,18 @@
+AI kodni tezlashtirdi. Unda nega natija shunchalik oshmadi? 👇
+
+Garvard tadqiqotchilari 655 ta kompaniyadagi 720 542 xodimning ish ma’lumotlarini o‘rgandi (445 mln ish harakati).
+
+📌 Nima topildi:
+• AI agentlar kod yozishni taxminan 74% tezlashtirgan
+• lekin tayyor natija atigi 14% ga yaxshilangan
+• sabab: tekshirish. Kod tekshiruvdan o‘tishi uchun ketadigan vaqt 56% ga uzaygan
+• AI eng qiyin ishni yo‘q qilmadi, uni kod yozishdan tekshirishga ko‘chirdi
+
+Hozir eng qimmatli ko‘nikma: AI qilgan ishni to‘g‘ri tekshira olish.
+
+Manba: Fiona Chen, James Stratton. Artificial Intelligence in the Firm: Bottlenecks in Software Production. Harvard University, 2026-yil noyabr versiyasi.
+Eslatma: 76% ish o‘rni raqami tadqiqot modelidagi 2031-yilgacha eng keskin ssenariy, aniq prognoz emas. Hozircha bandlikka aniq ta’sir topilmagan.
+
+👇 Tadqiqotning o‘zbekcha qisqa variantini olish uchun kommentga “+” yozing, biz sizga yuborib beramiz. Saqlab qo‘ying va AI bilan ishlaydigan tanishingizga yuboring.
+
+#AI #suniyintellekt #dasturlash #Garvard #Ozbekiston
